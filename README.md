@@ -1,5 +1,7 @@
 # Orm Ecommerce Backend
 
+Video demo can be seen here: https://watch.screencastify.com/v/ljuHxC16cQgZHCg9JBvW
+
 ## AS A manager at an internet retail company
 
 I WANT a back end for my e-commerce website that uses the latest technologies
